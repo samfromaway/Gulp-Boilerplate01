@@ -19,13 +19,13 @@ copy files, rename files, uglify CSS or concatinate Javascript files with just a
 Alternative To Gulp, even if not directly, are Grunt, Webpack or direct npm scripts. 
 
 Here the steps: 
-npm init 
-Install Gulp Globally 
-CD in the project folder 
-Install Gulp as dev dependency 
-Create Gulpfile.js 
-Import gulp and deconstruct variables. 
-Let's go... 
+1. npm init 
+2. Install Gulp Globally 
+3. CD in the project folder 
+4. Install Gulp as dev dependency 
+5. Create Gulpfile.js 
+6. Import gulp and deconstruct variables. 
+7. Let's go... 
 
 Plugins: 
 npm install --save-dev gulp gulp-sass gulp-sourcemaps gulp-postcss autoprefixer cssnano gulp-concat gulp-terser gulp-imagemin
