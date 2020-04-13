@@ -1,0 +1,58 @@
+body,
+label,
+input,
+textarea {
+  font-family: Verdana, sans-serif;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.2;
+  margin: 0.7rem;
+  letter-spacing: 3px;
+  color: red;
+}
+
+h2 {
+  font-size: 2rem;
+  line-height: 1.2;
+  margin: 0.7rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  line-height: 1.2;
+  margin: 0.3rem;
+  letter-spacing: 3px;
+}
+
+h4 {
+  font-size: 1rem;
+}
+
+h5 {
+  font-size: 0.9rem;
+}
+
+h6 {
+  font-size: 0.7rem;
+}
+
+p,
+span {
+  font-size: 1rem;
+  line-height: 1.4;
+  letter-spacing: 1.5px;
+  margin: 0.3rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+i {
+  color: var(--textbright);
+}

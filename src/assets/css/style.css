@@ -1,0 +1,27 @@
+@import url(./typography.css);
+@import url(./colors.css);
+@import url(./normalizeNC.css);
+
+@import url(./layout/header.css);
+@import url(./layout/hero01.css);
+
+/* ---------  GLOBAL STYLES  --------- */
+:root {
+  --main-border-radius: 5px;
+}
+
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 13pt;
+  min-width: 320px;
+}
+
+body {
+  background: var(--radial-background01);
+  background-attachment: fixed;
+}

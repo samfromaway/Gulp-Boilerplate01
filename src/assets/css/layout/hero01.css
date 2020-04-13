@@ -1,0 +1,25 @@
+.hero01 {
+  display: flex;
+  width: 100%;
+  height: 88vh;
+  flex-direction: column;
+  background-color: var(--radial-background01);
+  color: var(--textbright);
+  position: relative;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.content-section1 {
+  margin-top: 180px;
+}
+
+@media screen and (max-width: 768px) {
+  .hero01 {
+    height: 78vh;
+  }
+}

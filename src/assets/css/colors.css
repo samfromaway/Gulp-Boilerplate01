@@ -1,0 +1,15 @@
+:root {
+  --main-blue: #160091;
+  --main-blue-light: rgb(62, 152, 255);
+  --space-blue: #0f0c22;
+  --background-color01: rgb(233, 233, 233);
+  --textbright: rgb(233, 233, 233);
+  --textdark: rgb(26, 26, 26);
+  --highlightcolor01: rgb(224, 90, 0);
+  --radial-background01: radial-gradient(rgba(43, 55, 96, 1), rgb(6, 12, 32));
+  --box-shadow01: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+    0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  --drop-shadow01: drop-shadow(0 0 0.55rem rgb(68, 68, 221, 0.7));
+}
+
+/*     var(--radial-background01)      */
